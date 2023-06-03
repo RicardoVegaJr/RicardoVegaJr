@@ -5,6 +5,10 @@
 
 - 🌱 I’m currently learning **Javascript, Python**
 
+- 💬 Ask me about **My current journey in coding.**
+
+- ⚡ Fun fact **I am currently working in Verizon as a billing spealist/technical support.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ricardo vega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ricardo vega" height="30" width="40" /></a>
