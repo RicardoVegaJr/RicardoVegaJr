@@ -58,6 +58,23 @@
   </a>
 </p>
 
+## 📚 Table of Contents
+
+### Projects
+
+#### 1. 🌍 WTW App
+- **Back-end Repository:** [GitHub Link](https://github.com/RicardoVegaJr/se_project_express.git)  
+- **Front-end Repository:** [GitHub Link](https://github.com/RicardoVegaJr/se_project_react.git)  
+- **Deployed Page:** [Live Site](https://wtwrvega.cyberroma.net/)
+
+#### 2. ✈️ Around the World
+- **Front-end Repository:** [GitHub Link](https://github.com/RicardoVegaJr/se_project_aroundtheus.git)  
+- **Deployed Page:** [Live Site](https://ricardovegajr.github.io/se_project_aroundtheus/)
+
+#### 3. 📰 New Explorer
+- **Front-end Repository:** [GitHub Link](https://github.com/RicardoVegaJr/News-Explorer.git)  
+- **Deployed Page:** [Live Site](https://rvega-news-ex.netlify.app/)
+
 <h3 align="left">Current Projects:</h3>
 <ul>
   <li>
