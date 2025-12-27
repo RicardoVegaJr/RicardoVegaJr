@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ricardo Vega Jr</h1>
-<h3 align="center">A passionate frontend developer from Houston, Texas, exploring the intersection of creativity and technology.</h3>
+<h3 align="center">A passionate full-stack developer from Houston, Texas, exploring the intersection of creativity and technology.</h3>
 
 - 🔭 Latest project: <a href="https://rvega-news-ex.netlify.app/" target="_blank">RVEGA News</a>
 - 🌱 Continuously learning new languages and technologies.
