@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ricardo Vega Jr</h1>
 <h3 align="center">A passionate full-stack developer from Houston, Texas, exploring the intersection of creativity and technology.</h3>
 
-- 🔭 Latest project: <a href="https://github.com/RicardoVegaJr/JWT-Based-Auth-API.git" target="_blank">JWT-Based Auth API</a>
+- 🔭 Latest project: <a href="https://github.com/RicardoVegaJr/JWT-Based-Auth-API.git" target="_blank">JWT-Based Auth API</a> and <a href="https://github.com/RicardoVegaJr/JWT-Based-Auth-API.git" target="_blank">Cloud file client</a>
 - 🌱 Continuously learning new languages and technologies.
 - 💬 Ask me about **My current back-end and API work updates. Currently writing JEST testing for JWT Authenticator**
 - ⚡ Current Focus: **Building AI automations and secure authentication systems**
