@@ -4,7 +4,7 @@
 - 🔭 Latest project:<a href="https://github.com/RicardoVegaJr/JWT-Based-Auth-API.git" target="_blank">Cloud file client</a>
 - 🌱 Continuously learning new languages and technologies.
 - 💬 Ask me about **My current back-end and API work updates. Currently writing JEST testing for JWT Authenticator**
-- ⚡ Current Focus: **Building AI automations and secure authentication systems**
+- ⚡ Current Focus: **Interning at Hybrid Hiring Solutions**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
