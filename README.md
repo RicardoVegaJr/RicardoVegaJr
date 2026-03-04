@@ -2,9 +2,9 @@
 <h3 align="center">A passionate full-stack developer from Miami, Florida, exploring the intersection of creativity and technology.</h3>
 
 - 🔭 Latest project: <a href="https://github.com/RicardoVegaJr/JWT-Based-Auth-API.git" target="_blank">Cloud file client</a>
-- 🌱 Continuously learning new languages and technologies, currently mastering **TypeScript**.
-- 💬 Ask me about **Back-end/API development, JWT Authentication, and JEST testing.**
-- ⚡ Current Focus: **Interning at Hybrid Hiring Solutions & collaborating in Agile environments.**
+- 🌱 Continuously learning new languages and technologies, currently deepening my expertise in **TypeScript and Meteor for reactive application development**.
+- 💬 Ask me about **Back-end/API development, JWT Authentication, JEST testing, and reactive data systems with Meteor.**
+- ⚡ Current Focus: **Interning at Hybrid Hiring Solutions, building reactive functionality with Meteor + TypeScript, and collaborating in Agile environments.**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -54,6 +54,9 @@
 
 <h3 align="left">Current Projects & Workflow:</h3>
 <ul>
+  <li>
+    <b>Reactive Development with Meteor + TypeScript:</b> Building real-time features using Meteor’s pub/sub model and reactive data sources, strongly typed with TypeScript for maintainability and scalability.
+  </li>
   <li>
     <b>Agile Development:</b> Managed via <b>Jira</b> to ensure iterative progress, clear sprint goals, and efficient task tracking.
   </li>
