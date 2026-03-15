@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ricardo Vega Jr</h1>
 <h3 align="center">A passionate full-stack developer from Miami, Florida, exploring the intersection of creativity and technology.</h3>
 
-- 🔭 Latest project: Hybrid Hiring App & Task Manager
+- 🔭 Latest project: Hybrid Hiring App & Task Manager(front end currently in development) 
 - 🌱 Continuously learning new languages and technologies, currently deepening my expertise in **TypeScript and Meteor for reactive application development**.
 - 💬 Ask me about **Back-end/API development, JWT Authentication, JEST testing, and reactive data systems with Meteor.**
 - ⚡ Current Focus: **Interning at Hybrid Hiring Solutions, building reactive functionality with Meteor + TypeScript, and collaborating in Agile environments.**
