@@ -71,3 +71,4 @@
 <h3 align="left">Contact Me:</h3>
 <p>Email: <a href="mailto:rvega921@gmail.com">rvega921@gmail.com</a></p>
 <p>LinkedIn: <a href="https://www.linkedin.com/in/ricardovegajr/">linkedin.com/in/ricardovegajr/</a></p>
+<p>Portfolio: <a href="https://portfoliorvega.netlify.app/" target="_blank">portfoliorvega.netlify.app</a></p>
