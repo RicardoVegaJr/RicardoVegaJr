@@ -5,6 +5,7 @@
 - 🌱 Continuously learning new languages and technologies, currently deepening my expertise in **TypeScript and Meteor for reactive application development**.
 - 💬 Ask me about **Back-end/API development, JWT Authentication, JEST testing, and reactive data systems with Meteor.**
 - ⚡ Current Focus: **Interning at Hybrid Hiring Solutions, building reactive functionality with Meteor + TypeScript, and collaborating in Agile environments.**
+- ⚡ Learning Meteor for reactive pages. 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
