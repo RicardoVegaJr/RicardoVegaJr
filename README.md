@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from Miami, Florida, exploring the intersection of creativity and technology.</h3>
 
 - 🔭 Latest project: Hybrid Hiring App, Habit Task Manager(front end currently in development), Backend - Cloud storage in developement. 
-- 🌱 Continuously learning new languages and technologies, currently deepening my expertise in **TypeScript and Meteor for reactive application development**.
+- 🌱 Continuously learning new languages and technologies, currently deepening my expertise in **TypeScript and Meteor for reactive application development**. Feeling nostalgic—I’m returning to old projects to make updates!
 - 💬 Ask me about **Back-end/API development, JWT Authentication, JEST testing, and reactive data systems with Meteor.**
 - ⚡ Current Focus: **Interning at Hybrid Hiring Solutions, building reactive functionality with Meteor + TypeScript, and collaborating in Agile environments.**
 - ⚡ Learning Meteor for reactive pages. 
